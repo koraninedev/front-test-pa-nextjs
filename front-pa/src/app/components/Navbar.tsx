@@ -34,6 +34,10 @@ function Navbar() {
                         <li className="mx-3"><a href="/information/user">User</a></li>
                         <li className="mx-3"><a href="/information/contact">Contact</a></li>
                         <li className="mx-3"><a href="/information/education">Education</a></li>
+                        <li className="mx-3"><a href="/information/experience">Experience</a></li>
+                        <li className="mx-3"><a href="/information/skill">Skill</a></li>
+                        <li className="mx-3"><a href="/information/interests">Interests</a></li>
+                        <li className="mx-3"><a href="/information/guild">Guild</a></li>
                     </ul>
                     </div>
             </div>
